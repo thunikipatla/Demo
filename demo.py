@@ -10,3 +10,5 @@ def bug():
 	print("this is to fix the bug in master branch")
 def hotfix():
 	retun "To show the diff between nerge and rebase"
+def hotfix():
+	return "To show rebase and merge"
