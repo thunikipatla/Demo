@@ -3,3 +3,6 @@ def reset():
 
 def test():
 	return "To test function"
+
+def conflict():
+	retun "To show the conflict"
